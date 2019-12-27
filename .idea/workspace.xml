@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="304b29c5-5c11-414f-b9d2-9272b8aeff65" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-    </list>
+    <list default="true" id="304b29c5-5c11-414f-b9d2-9272b8aeff65" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,6 +26,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager" selected="npm.npm start">
     <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
@@ -69,14 +65,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577469178248</updated>
-      <workItem from="1577469181977" duration="726000" />
+      <workItem from="1577469181977" duration="847000" />
     </task>
+    <task id="LOCAL-00001" summary="pilot">
+      <created>1577470683834</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577470683834</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="pilot" />
+    <option name="LAST_COMMIT_MESSAGE" value="pilot" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="328" y="52" key="CommitChangelistDialog2" timestamp="1577470683631">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="328" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1577470683631" />
     <state width="1419" height="244" key="GridCell.Tab.0.bottom" timestamp="1577470258166">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -93,5 +105,13 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="1419" height="244" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1577470258165" />
+    <state x="229" y="89" key="SettingsEditor" timestamp="1577470750745">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1577470750745" />
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1577470819473">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1577470819473" />
   </component>
 </project>
