@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="304b29c5-5c11-414f-b9d2-9272b8aeff65" name="Default Changelist" comment="">
+    <list default="true" id="304b29c5-5c11-414f-b9d2-9272b8aeff65" name="Default Changelist" comment="pilot - i hope this worked">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +72,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1577469178248</updated>
-      <workItem from="1577469181977" duration="1538000" />
+      <workItem from="1577469181977" duration="2038000" />
     </task>
     <task id="LOCAL-00001" summary="pilot">
       <created>1577470683834</created>
@@ -95,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1577470983511</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="pilot - i hope this worked">
+      <created>1577473817591</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1577473817591</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,13 +110,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="pilot" />
-    <option name="LAST_COMMIT_MESSAGE" value="pilot" />
+    <MESSAGE value="pilot - i hope this worked" />
+    <option name="LAST_COMMIT_MESSAGE" value="pilot - i hope this worked" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="328" y="52" key="CommitChangelistDialog2" timestamp="1577470983333">
+    <state x="328" y="52" key="CommitChangelistDialog2" timestamp="1577474115104">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="328" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1577470983333" />
+    <state x="328" y="52" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1577474115104" />
     <state x="579" y="350" key="Github.ShareDialog" timestamp="1577473663024">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -134,9 +142,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="229" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1577470750745" />
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1577471056008">
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2" timestamp="1577473825507">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1577471056008" />
+    <state x="320" y="178" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1577473825507" />
   </component>
 </project>
